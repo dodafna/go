@@ -6,6 +6,6 @@ func hello() (string, error) {
 	return "Hello ƛ!", nil
 }
 func main() {
-	fmt.Println("Hello, world.")
+	fmt.Println("Hello, world")
 	lambda.Start(hello)
 }
