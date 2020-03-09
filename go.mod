@@ -1,4 +1,4 @@
-module hello.go
+module github.com/dodafna/go
 
 go 1.13
 
